@@ -46,9 +46,6 @@
 		"svgo": "^3.0.2",
 		"typescript": "^4.9.5"
 	},
-	"optionalDependencies": {
-		"svgo": "^3.0.2"
-	},
 	"publishConfig": {
 		"access": "public"
 	}
